@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18105" appversion="6.1.14" start="node1">
+  <panorama id="node1">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1" height="1599" levelingroll="0" levelingpitch="0" width="1599" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="1" height="1599" width="1599" predecode="0"/>
+      <level preload="1" height="799" width="799" predecode="0"/>
+      <level preload="1" height="399" width="399" predecode="1"/>
+      <preview color="0xaa0000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="52.89" projection="4" tilt="0.2" pan="161.27"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-26.6453" pan="-180"/>
+      <max fov="120" fovfisheye="360" tilt="26.6453" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata tags="Нова папка" latitude="" datetime="26.09.2022 7:08" info="" nodeid="node1" heading="0" copyright="" source="" customnodeid="" author="" comment="" longitude="" description="" title=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" url="{node3}" tilt="9.26" skinid="ht_node" pan="-203.28" target="" description="" title=""/>
+    </hotspots>
+    <media>
+      <image id="Element01" fov="5.000" rotz="0.000" height="500" clickmode="1" tilt="4.870" roty="0.000" width="750" stretch="1.000" handcursor="1" pan="-192.880" rotx="0.000">
+        <source url="media/IMG_6536.jpg"/>
+      </image>
+      <image id="Element02" fov="5.000" rotz="0.000" height="412" clickmode="1" tilt="6.730" roty="0.000" width="685" stretch="1.000" handcursor="1" pan="-198.200" rotx="0.000">
+        <source url="media/IMG_20220926_110558.jpg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafterinfov="90" blendcolor="0x000000" softedge="0" zoomfov="20" zoomout="0" blendtime="1" zoomafteroutfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control contextprojections="0" rubberband="0" lockedmouse="0" invertcontrol="1" speedwheel="1" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1" height="1661" levelingroll="0" levelingpitch="0" width="1661" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="1" height="1661" width="1661" predecode="0"/>
+      <level preload="1" height="830" width="830" predecode="0"/>
+      <level preload="1" height="415" width="415" predecode="1"/>
+      <preview color="0xaa0000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="41.06" projection="4" tilt="-0.95" pan="-72.71"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-26.4439" pan="-180"/>
+      <max fov="120" fovfisheye="360" tilt="26.4439" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata tags="Нова папка" latitude="" datetime="26.09.2022 7:18" info="" nodeid="node2" heading="0" copyright="" source="" customnodeid="" author="" comment="" longitude="" description="" title=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" url="{node4}" tilt="-1.4" skinid="ht_node" pan="-70.48" target="" description="" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="90" blendcolor="0x000000" softedge="0" zoomfov="20" zoomout="0" blendtime="1" zoomafteroutfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control contextprojections="0" rubberband="0" lockedmouse="0" invertcontrol="1" speedwheel="1" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1" height="1814" levelingroll="0" levelingpitch="0" width="1814" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="1" height="1814" width="1814" predecode="0"/>
+      <level preload="1" height="907" width="907" predecode="0"/>
+      <level preload="1" height="453" width="453" predecode="1"/>
+      <preview color="0xaa0000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="37.22" projection="4" tilt="0" pan="-15.73"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-18.6111" pan="-180"/>
+      <max fov="120" fovfisheye="360" tilt="18.6111" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata tags="Нова папка" latitude="" datetime="26.09.2022 7:19" info="" nodeid="node3" heading="0" copyright="" source="" customnodeid="" author="" comment="" longitude="" description="" title=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" url="{node2}" tilt="-4.09" skinid="ht_node" pan="-19.35" target="" description="" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafterinfov="90" blendcolor="0x000000" softedge="0" zoomfov="20" zoomout="0" blendtime="1" zoomafteroutfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control contextprojections="0" rubberband="0" lockedmouse="0" invertcontrol="1" speedwheel="1" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1" height="1666" levelingroll="0" levelingpitch="0" width="1666" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="1" height="1666" width="1666" predecode="0"/>
+      <level preload="1" height="833" width="833" predecode="0"/>
+      <level preload="1" height="416" width="416" predecode="1"/>
+      <preview color="0xaa0000" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="55.07" projection="4" tilt="0" pan="89.72"/>
+      <flyin fov="55.07" projection="4" tilt="0" pan="89.72"/>
+      <min fovpixel="2" tilt="-27.5375" pan="-180"/>
+      <max fov="55.07" fovfisheye="360" tilt="27.5375" fovstereographic="270" pan="180"/>
+    </view>
+    <userdata tags="Нова папка (2)" latitude="" datetime="26.09.2022 7:11" info="" nodeid="node4" heading="0" copyright="" source="" customnodeid="" author="" comment="" longitude="" description="" title=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label borderradius="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" width="180" background="1" textalpha="1" enabled="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <image id="Element01" fov="5.000" rotz="0.000" height="889" clickmode="1" tilt="5.990" roty="0.000" width="500" stretch="1.000" handcursor="1" pan="-21.750" rotx="-33.000">
+        <source url="media/IMG_20220926_103932.jpg"/>
+      </image>
+      <image id="Element02" fov="5.000" rotz="0.000" height="500" clickmode="1" tilt="0.120" roty="0.000" width="889" stretch="1.000" handcursor="1" pan="-31.080" rotx="0.000">
+        <source url="media/IMG_20220926_103943.jpg"/>
+      </image>
+      <image id="Element03" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-12.460" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-263.170" rotx="0.000">
+        <source url="media/IMG_6564.jpg"/>
+      </image>
+      <image id="Element04" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-14.430" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-281.680" rotx="0.000">
+        <source url="media/IMG_6565.jpg"/>
+      </image>
+      <image id="Element05" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-15.120" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-308.400" rotx="0.000">
+        <source url="media/IMG_6566.jpg"/>
+      </image>
+      <image id="Element06" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-12.900" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-326.360" rotx="0.000">
+        <source url="media/IMG_6567.jpg"/>
+      </image>
+      <image id="Element07" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-9.640" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-340.280" rotx="0.000">
+        <source url="media/IMG_6568.jpg"/>
+      </image>
+      <image id="Element08" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-7.260" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-348.810" rotx="0.000">
+        <source url="media/IMG_6569.jpg"/>
+      </image>
+      <image id="Element09" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-6.440" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-358.000" rotx="-19.000">
+        <source url="media/IMG_6570.jpg"/>
+      </image>
+      <image id="Element10" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-6.140" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-7.600" rotx="0.000">
+        <source url="media/IMG_6571.jpg"/>
+      </image>
+      <image id="Element11" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-0.230" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-272.650" rotx="0.000">
+        <source url="media/IMG_6542.jpg"/>
+      </image>
+      <image id="Element12" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="1.340" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-344.780" rotx="0.000">
+        <source url="media/IMG_6544.jpg"/>
+      </image>
+      <image id="Element13" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="1.890" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-9.920" rotx="0.000">
+        <source url="media/IMG_6543.jpg"/>
+      </image>
+      <image id="Element14" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-5.570" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-44.280" rotx="0.000">
+        <source url="media/IMG_6572.jpg"/>
+      </image>
+      <image id="Element15" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-5.530" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-53.700" rotx="0.000">
+        <source url="media/IMG_6573.jpg"/>
+      </image>
+      <image id="Element16" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-7.550" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-65.410" rotx="0.000">
+        <source url="media/IMG_6600.jpg"/>
+      </image>
+      <image id="Element17" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-20.190" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-91.420" rotx="0.000">
+        <source url="media/IMG_6548.jpg"/>
+      </image>
+      <image id="Element18" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="3.280" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-46.780" rotx="0.000">
+        <source url="media/IMG_6545.jpg"/>
+      </image>
+      <image id="Element19" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="2.200" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-68.520" rotx="0.000">
+        <source url="media/IMG_6546.jpg"/>
+      </image>
+      <image id="Element20" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-11.350" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-128.790" rotx="0.000">
+        <source url="media/IMG_6575.jpg"/>
+      </image>
+      <image id="Element21" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-10.060" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-143.650" rotx="0.000">
+        <source url="media/IMG_6594.jpg"/>
+      </image>
+      <image id="Element22" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="0.850" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-145.380" rotx="0.000">
+        <source url="media/IMG_6606.jpg"/>
+      </image>
+      <image id="Element23" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-3.500" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-184.490" rotx="0.000">
+        <source url="media/IMG_6560.jpg"/>
+      </image>
+      <image id="Element24" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-2.840" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-195.230" rotx="0.000">
+        <source url="media/IMG_6563.jpg"/>
+      </image>
+      <image id="Element25" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-2.570" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-206.650" rotx="0.000">
+        <source url="media/IMG_6561.jpg"/>
+      </image>
+      <image id="Element26" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="5.060" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-194.900" rotx="0.000">
+        <source url="media/IMG_6551.jpg"/>
+      </image>
+      <image id="Element33" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="3.090" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-225.920" rotx="0.000">
+        <source url="media/IMG_6550.jpg"/>
+      </image>
+      <image id="Element34" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="3.350" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-176.790" rotx="0.000">
+        <source url="media/IMG_6602.jpg"/>
+      </image>
+      <image id="Element35" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="2.110" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-172.320" rotx="0.000">
+        <source url="media/IMG_6604.jpg"/>
+      </image>
+      <image id="Element36" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="0.730" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-219.850" rotx="0.000">
+        <source url="media/IMG_6559.jpg"/>
+      </image>
+      <image id="Element37" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="0.370" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-212.120" rotx="0.000">
+        <source url="media/IMG_6557.jpg"/>
+      </image>
+      <image id="Element38" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="1.010" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-204.940" rotx="0.000">
+        <source url="media/IMG_6556.jpg"/>
+      </image>
+      <image id="Element39" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="1.110" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-197.570" rotx="0.000">
+        <source url="media/IMG_6555.jpg"/>
+      </image>
+      <image id="Element40" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="0.780" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-189.630" rotx="0.000">
+        <source url="media/IMG_6554.jpg"/>
+      </image>
+      <image id="Element41" fov="5.000" rotz="0.000" height="300" clickmode="1" tilt="-0.200" roty="0.000" width="450" stretch="1.000" handcursor="1" pan="-182.390" rotx="0.000">
+        <source url="media/IMG_6553.jpg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafterinfov="90" blendcolor="0x000000" softedge="0" zoomfov="20" zoomout="0" blendtime="1" zoomafteroutfov="20" enabled="1" zoomspeed="2" zoomoutpause="1" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control contextprojections="0" rubberband="0" lockedmouse="0" invertcontrol="1" speedwheel="1" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" latitude="" datetime="" info="" nodeid="master" heading="0" copyright="" source="" customnodeid="" author="" comment="" longitude="" description="" title=""/>
+  </masternode>
+</tour>
